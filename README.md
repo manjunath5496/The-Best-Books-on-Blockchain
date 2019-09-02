@@ -19,9 +19,11 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(15).pdf" style="text-decoration:none;">Architecture for Blockchain Applications</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(16).pdf" style="text-decoration:none;">Mastering Bitcoin: Programming the Open Blockchain </a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(17).pdf" style="text-decoration:none;">Artists Re:Thinking the Blockchain </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(18).pdf" style="text-decoration:none;">Pattern Based Evaluation of Blockchain Technology as a Catalyst for Business Model Innovation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(19).pdf" style="text-decoration:none;">The Science of the Blockchain </a></b></li>
  
- 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(9).pdf" style="text-decoration:none;">Business Innovation Through Blockchain </a></b></li>
 
 
  
