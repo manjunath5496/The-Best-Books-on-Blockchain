@@ -25,7 +25,7 @@
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(9).pdf" style="text-decoration:none;">Business Innovation Through Blockchain </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Blockchain/blob/master/bch(20).pdf" style="text-decoration:none;">Blockchain: A Practical Guide to Developing Business, Law, and Technology Solutions </a></b></li>
  
  
   </ul>
