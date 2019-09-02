@@ -29,14 +29,8 @@
 
  
  
-  </ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(10).pdf" style="text-decoration:none;">Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(11).pdf" style="text-decoration:none;">Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(12).pdf" style="text-decoration:none;">Handbook of Blockchain, Digital Finance, and Inclusion</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(13).pdf" style="text-decoration:none;">Hands-On IoT Solutions with Blockchain</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(14).pdf" style="text-decoration:none;">The Impact of Blockchain Technology on Finance: A Catalyst for Change </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(15).pdf" style="text-decoration:none;">Architecture for Blockchain Applications</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(16).pdf" style="text-decoration:none;">Mastering Bitcoin: Programming the Open Blockchain </a></b></li>
+
+
 
  
  
