@@ -7,10 +7,10 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(6).pdf" style="text-decoration:none;">Mastering Blockchain</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(7).pdf" style="text-decoration:none;">Blockchain Basics: A Non-Technical Introduction in 25 Steps</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(8).pdf" style="text-decoration:none;">Basic Meteorology: A Short Course  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(9).pdf" style="text-decoration:none;">Philoponus: On Aristotle Meteorology 1.4-9, 12</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(10).pdf" style="text-decoration:none;">Fundamentals of Boundary-Layer Meteorology </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(11).pdf" style="text-decoration:none;">Practical Meteorology: An Algebra-based Survey of Atmospheric Science</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(8).pdf" style="text-decoration:none;">Blockchain For Dummies </a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(10).pdf" style="text-decoration:none;">Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(11).pdf" style="text-decoration:none;">Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(12).pdf" style="text-decoration:none;">Satellite Meteorology</a></b></li>
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(13).pdf" style="text-decoration:none;">The Handbook of Meteorology</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Meteorology-Books/blob/master/mgy(14).pdf" style="text-decoration:none;">Thermodynamics of the Atmosphere: A Course in Theoretical Meteorology </a></b></li>                              
